@@ -1,0 +1,2 @@
+==Read Me
+Hello! This is my first app that I am building on my own. I have learned how to use the command line and git hub to become an expert coder.

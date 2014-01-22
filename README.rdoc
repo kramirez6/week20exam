@@ -1,2 +1,2 @@
 ==Read Me
-Hello! This is my first app that I am building on my own. I have learned how to use the command line and git hub to become an expert coder.
+Hello! My name is Kennedy and this is my first app being built on my own. This is my 20 week exam app.
